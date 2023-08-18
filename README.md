@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joel-glitch-alt
-- 👀 I’m interested in Full stack and cisco network enginerr...
-- 🌱 I’m currently learning .JavaScript,C++,Jva and PhP..
+- 👀 I am a full Stack software Engineer in the following fields; React Native, Flutter, React, Django, Vue, Svelte, Data Science, Node js, Go-Lang and Cisco Network Engineer.
+- 🌱 I am a professiobnal Software Developer in Desktop apps, Mobile apps and Network Engineering
 - 💞️ I’m looking to collaborate on any project work and freelancencing ...
 - 📫 How to reach me joeladdition@gmail.com or +233593380107.
 
